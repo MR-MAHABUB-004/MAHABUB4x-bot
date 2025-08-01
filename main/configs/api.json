@@ -1,0 +1,6 @@
+{
+  "api": "https://masterapi.fun",
+  "api1": "https://love-api-imran.onrender.com",
+  "canvas": "https://canvas-api-imran.vercel.app",
+  "weather": "https://api.openweathermap.org/data/2.5/weather?q="
+}
